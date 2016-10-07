@@ -1,3 +1,11 @@
-// Import examle
+// Import basic Taiga Grid
+// Taiga was made by Studio Wolf / Aljan Scholtens
+// Edit _base.scss to your own preferences
+@import 
+"_base",
+"_grid",
+"_layout";
 
-@import "_example";
+// Load your own styles.
+@import
+"_example";
